@@ -1,2 +1,2 @@
 # usom
-usomda bulunan zararlı url ve ip adreslerini güvenlik duvarına alabilmek için yapılmıştır.
+Usom da bulunan zararlı domain ve ip adreslerini güvenlik duvarına ekleyebilnek için yapılmıştır.
